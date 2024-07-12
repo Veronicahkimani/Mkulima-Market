@@ -94,7 +94,7 @@
 		<div class="footer-center">
 			<div>
 				<i class="fa fa-map-marker"></i>
-				<p style="font-size:20px">Mkulima farm market<span>Nairobi</span></p>
+				<p style="font-size:20px">Mkulima farm market<span>thika</span></p>
 			</div>
 			<div>
 				<i class="fa fa-phone"></i>
